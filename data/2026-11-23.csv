@@ -1,0 +1,2 @@
+snapshot_time,station_queried,station_returned,category,number,line,operator,destination,planned_departure,forecast_departure,delay_min,planned_platform,forecast_platform
+2026-11-23T02:05:28+01:00,Genève,Genève,R,L5,R L5,SBB,Satigny,2026-11-23T02:18:00+0100,2026-11-23T02:18:00+0100,0,10,
