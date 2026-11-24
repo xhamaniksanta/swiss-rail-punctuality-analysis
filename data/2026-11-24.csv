@@ -1,0 +1,4 @@
+snapshot_time,station_queried,station_returned,category,number,line,operator,destination,planned_departure,forecast_departure,delay_min,planned_platform,forecast_platform
+2026-11-24T03:51:21+01:00,Genève,Genève,R,L4,R L4,SBB,Coppet,2026-11-24T04:00:00+0100,2026-11-24T04:00:00+0100,0,1,
+2026-11-24T03:51:21+01:00,Genève,Genève,R,L4,R L4,SBB,Annemasse,2026-11-24T04:01:00+0100,2026-11-24T04:01:00+0100,0,2,
+2026-11-24T03:51:21+01:00,Genève,Genève,RE,33,RE 33,SBB,Lausanne,2026-11-24T04:08:00+0100,2026-11-24T04:08:00+0100,0,3,
