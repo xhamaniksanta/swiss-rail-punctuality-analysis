@@ -1,0 +1,8 @@
+snapshot_time,station_queried,station_returned,category,number,line,operator,destination,planned_departure,forecast_departure,delay_min,planned_platform,forecast_platform
+2026-11-27T00:42:00+01:00,Basel SBB,Basel SBB,S,3,S 3,SBB,Delémont,2026-11-27T00:42:00+0100,2026-11-27T00:42:00+0100,0,14,
+2026-11-27T00:42:00+01:00,Genève,Genève,R,L4,R L4,SBB,Coppet,2026-11-27T01:00:00+0100,2026-11-27T01:00:00+0100,0,1,
+2026-11-27T00:42:00+01:00,Genève,Genève,R,L4,R L4,SBB,Annemasse,2026-11-27T01:01:00+0100,2026-11-27T01:01:00+0100,0,2,
+2026-11-27T00:42:00+01:00,Luzern,Luzern,S,5,S 5,ZB,Giswil,2026-11-27T00:46:00+0100,2026-11-27T00:48:00+0100,2,13B,
+2026-11-27T00:42:00+01:00,Winterthur,Winterthur,IR,13,IR 13,SBB,St. Gallen,2026-11-27T00:45:00+0100,2026-11-27T00:48:00+0100,3,4,
+2026-11-27T00:42:00+01:00,Winterthur,Winterthur,S,35,S 35,THURBO,Wil SG,2026-11-27T00:49:00+0100,2026-11-27T00:49:00+0100,0,1,
+2026-11-27T00:42:00+01:00,Winterthur,Winterthur,S,30,S 30,THURBO,Weinfelden,2026-11-27T00:49:00+0100,2026-11-27T00:49:00+0100,0,6,
