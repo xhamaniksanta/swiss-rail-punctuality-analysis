@@ -1,14 +1,14 @@
 # Latest results
 
-Data from 2026-11-19 19:38 to 2026-11-26 00:45 (Swiss time), 8 day file(s), 16 snapshots.
+Data from 2026-11-19 19:38 to 2026-11-27 00:42 (Swiss time), 9 day file(s), 18 snapshots.
 
-- Rows collected: 1,066
-- Unique departures: 1,066
-- Departures analysed (close to departure, with delay data): 740
-- On time (under 3 min late): 97.3%
-- Average delay: 0.38 min
+- Rows collected: 1,195
+- Unique departures: 1,195
+- Departures analysed (close to departure, with delay data): 834
+- On time (under 3 min late): 97.1%
+- Average delay: 0.39 min
 - 5+ min late: 1.4%
-- Lowest on-time rate: Lausanne (90.5%)
+- Lowest on-time rate: Lausanne (91.5%)
 
 ## Data quality
 
